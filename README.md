@@ -1,4 +1,4 @@
-# Blue Green Deployment NodejsApp
+# Canary Deployment NodejsApp
 
 # Pre-requisites:
     - Install GIT
