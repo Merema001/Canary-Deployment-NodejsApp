@@ -58,8 +58,7 @@
   https://nodejs.cloudtechmasters.ml/
   
 ![image](https://user-images.githubusercontent.com/58024415/95006082-dc040000-061d-11eb-8fd6-da6c80216c54.png)  
-# Goto Web UI and check again:
+# Check application number of times you can get to know how our applicaiton will work based on Destination rules:
   https://nodejs.cloudtechmasters.ml/
   
-![image](https://user-images.githubusercontent.com/58024415/95006993-fa6ef900-0627-11eb-8269-66299b56f504.png)
-
+![image](https://user-images.githubusercontent.com/58024415/95006177-0a360f80-061f-11eb-9b58-02376f1cd9e4.png)
